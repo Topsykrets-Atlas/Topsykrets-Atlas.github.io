@@ -1,0 +1,50 @@
+*
+{
+	text-align: justify;
+	font-family: Impact, Arial, sans-serif;
+
+
+}
+p
+{
+	font-size: 1em;
+}
+.wrong
+{
+	font-size: 1.5em
+	color: red;
+	text-decoration: underline;
+	font-weight: bold;
+}
+.petit
+{
+	font-size: 0.3em
+}
+.violet
+{
+	color: violet
+}
+.arc
+{
+  background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+  background-image: gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+  color:transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+.nice
+{
+	color: #ff3399;
+
+}
+p, h1, h2, h3, h4, li
+{
+	margin-right: 2em;
+	margin-left: 2em;
+	text-align: justify;
+}
+body
+{
+	margin-left: 30em;
+	margin-right: 30em;
+}
