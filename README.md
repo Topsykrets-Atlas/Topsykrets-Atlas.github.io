@@ -1,3 +1,5 @@
 # motherfuckingwebsite
-Projet N°1 THP Mardi
-Première tentative de site internet projet thp mardi
+Projet N°1 THP Mercredi
+
+
+La tentative de pop up affiché après x secondes est restée infructueuse.
