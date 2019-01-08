@@ -1,6 +1,6 @@
 # motherfuckingwebsite
 
-Topsykrets-Atlas.io
+Topsykrets-Atlas.github.io
 
 Projet N°1 THP Mercredi
 
